@@ -7,4 +7,4 @@ plotly
 matplotlib
 seaborn
 altair>=5.0.0
-flask
+mysql-connector-python
