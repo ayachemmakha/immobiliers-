@@ -365,8 +365,7 @@ def main():
         initial_sidebar_state="expanded"
     )
     
-    # Initialisation de la base de données
-    init_database()
+
     
     # Gestion de l'état de connexion
     if 'logged_in' not in st.session_state:
